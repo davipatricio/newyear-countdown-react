@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    @apply min-h-screen;
+}
