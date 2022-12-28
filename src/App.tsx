@@ -1,8 +1,9 @@
+import './App.css'
+
 import Title from './components/Title'
 import Counter from './components/Counter'
 
 import useCountdown from './hooks/useCountdown'
-
 
 const newYear = new Date().getFullYear() + 1
 
